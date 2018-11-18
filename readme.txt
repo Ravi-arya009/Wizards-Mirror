@@ -1,5 +1,3 @@
-Wow, you opened a readme file.
-
 okay so here are the few things you should know before using this source code.
 
 1. Annyang(voice to text service) used in this project only runs on a webserver, so you have to run all this code on a webserver.
